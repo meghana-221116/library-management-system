@@ -2,14 +2,14 @@
 
     This is a library managenent API backend for the management of user and the books
 
-# Routes and the Endpoints
+# Routes and the Endpoints (APIS)
 
 ## /users
 GET : GET all the list of user in the user
 POST : Register the new user to particular system
 
 ## /users(id)
-GST:get users by their id
+GET:get users by their id
 PUT:Updating a user by their id
 DELETE:deleting a user by their id(if the user still has an any issued book)&&(is there any penalty to be collected)
 
@@ -48,6 +48,6 @@ npm init
 npm i express
 npm i nodemon --save-dev
 
-npm run dev (to run)
+npm run dev (to start the application)
 
 To restore the node module and package lock json -> npm i/npm install
