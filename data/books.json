@@ -1,0 +1,28 @@
+{
+    "books":[
+  {
+    "id": 1,
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "price": 299,
+    "publisher": "HarperCollins"
+  },
+  {
+    "id": 2,
+    "name": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-Help",
+    "price": 450,
+    "publisher": "Penguin Random House"
+  },
+  {
+    "id": 3,
+    "name": "Wings of Fire",
+    "author": "A. P. J. Abdul Kalam",
+    "genre": "Biography",
+    "price": 350,
+    "publisher": "Universities Press"
+  }
+]
+}
