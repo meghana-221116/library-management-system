@@ -51,3 +51,15 @@ npm i nodemon --save-dev
 npm run dev (to start the application)
 
 To restore the node module and package lock json -> npm i/npm install
+
+npm i mongoose (to install mongoose package)
+npm install mongodb
+mongodb+srv://gudisemeghana111_db_user:h5FSncbUf5Ey5wFU@cluster0.yxyitym.mongodb.net/?appName=Cluster0(connection string)
+
+npm i dotenv
+
+## MVC architecture
+
+ >> M:Model(scructure of our mongodb)
+ >> V:View(frontend)
+ >> C:Controllers(brain/logic of the route)
